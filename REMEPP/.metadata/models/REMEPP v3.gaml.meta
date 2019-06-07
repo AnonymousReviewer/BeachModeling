@@ -1,0 +1,10 @@
+#
+#Thu Apr 05 11:00:07 CEST 2018
+operators=envelope~-~*~rgb~font~as~rnd~length~\!\=~internal_at~+~\=~copy~line~floor~/~mod~?~\:~.~triangle~inside~where~<~>~circle~and~or~direction_to~inter~sum~collect~>\=~not~intersects~empty~overlapping~at_location~any_point_in~first~sort_by~shuffle~any_location_in~covers~\!~distance_to~min~flip~overlaps~translated_by~point~max~at_distance~closest_to~last~one_of~round~between~read~first_with~union~file_exists~contains~count~accumulate~with_precision~mean
+plugins=msi.gama.core
+attributes=points~area~y~keys
+statements=action~switch~match~set~arg~let~loop~if~break~else~return~add~remove~match_one~aspect~draw~reflex~ask~match_between~do~write~default~save~init~create~output~display~overlay~display_population~chart~data
+skills=reflex~moving
+constants=sec~blue~red~lightblue~tan~silver~grey~burlywood~bold~plain~m~m2~limegreen~darksalmon~darkblue~lightcoral~crimson~black~yellow~cm~green~pixels~white~orange
+types=geometry~string~list~int~unknown~point~agent~rgb~float~bool~date~font~file~map~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander

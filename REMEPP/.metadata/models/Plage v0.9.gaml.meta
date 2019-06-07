@@ -1,0 +1,10 @@
+#
+#Sun Dec 18 10:24:55 CET 2016
+operators=-~?~\=~\:~as~envelope~*~rgb~font~rnd~length~\!\=~internal_at~+~copy~line~square~translated_by~point~inside~where~.~/~<~>~circle~and~or~inter~sum~collect~>\=~floor~not~intersects~empty~overlapping~at_location~any_point_in~first~sort_by~shuffle~covers~direction_to~min~max~abs~mod~polygon~at_distance~points_on~overlaps~\!~distance_to~one_of~round~between~triangle~read~polyline~union~contains~count~mean~accumulate~with_precision
+plugins=msi.gama.core~ummisco.gama.opengl
+attributes=points~area~y~centroid
+statements=action~arg~let~loop~set~if~break~else~return~add~switch~match~aspect~draw~reflex~ask~match_between~write~do~default~save~init~create~match_one~output~display~chart~data~display_population~graphics
+skills=reflex~moving
+constants=sec~blue~red~grey~green~yellow~purple~pink~plain~m~m2~dimgrey~cm~orange~silver~limegreen~tan~burlywood~darksalmon~lightcoral~gamared~black
+types=string~list~int~unknown~file~geometry~point~agent~rgb~float~bool~date~font~container
+actions=debug~error~tell~write~die~_init_~_step_~halt~pause~follow~goto~move~wander
